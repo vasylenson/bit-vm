@@ -1,0 +1,5 @@
+# compile output
+/target
+
+# vscode stuff
+.vscode
